@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business/basic.iml" filepath="$PROJECT_DIR$/business/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/basics/basics.iml" filepath="$PROJECT_DIR$/business/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/batches/batches.iml" filepath="$PROJECT_DIR$/business/batches/batches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-server/cloud-server.iml" filepath="$PROJECT_DIR$/cloud-server/cloud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/directory.iml" filepath="$PROJECT_DIR$/directory.iml" />
+    </modules>
+  </component>
+</project>
